@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Khaled Tarek | Backend Engineer" />
+  <img src="banner.png" alt="Khaled Tarek | Backend Engineer" />
 </p>
 
 # Hi, I'm Khaled 👋
