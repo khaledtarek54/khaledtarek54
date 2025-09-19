@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Khaled Tarek | Backend Engineer" />
+</p>
+
 # Hi, I'm Khaled 👋
 
 Senior Software Engineer • Backend (Laravel & .NET)  
