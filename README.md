@@ -17,7 +17,7 @@ Clean architecture, automation, and building maintainable systems.
 At [Getpayin](https://getpayin.com), a fintech company focused on payment solutions, I contribute to backend development and system design.  
 
 Key contributions:
-- Designed and implemented **secure payment APIs** using Laravel and .NET.  
+- Designed and implemented **secure payment APIs** using Laravel.  
 - Improved **system scalability and performance** by introducing caching (Redis) and optimizing DB queries.  
 - Introduced **clean architecture practices** for more maintainable codebases.  
 - Automated workflows with **CI/CD pipelines (GitHub Actions + Docker)**.  
