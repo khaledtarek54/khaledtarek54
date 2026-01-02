@@ -64,8 +64,8 @@ Impact highlights:
 ---
 
 ## 📊 GitHub Stats
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledtarek54&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledtarek54&layout=compact)
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledtarek54&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledtarek54&layout=compact&theme=radical&hide_border=true)
 
 ---
 
