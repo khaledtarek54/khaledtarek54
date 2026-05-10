@@ -1,77 +1,46 @@
-<p align="center">
-  <img src="banner.png" alt="Khaled Tarek | Backend Engineer" />
-</p>
-
 # Hi, I'm Khaled 👋
 
-Senior Software Engineer • Backend (Laravel)  
-Clean architecture, automation, and building maintainable systems.
+**Senior Software Engineer · Backend (PHP/Laravel) · Multi-tenant SaaS · Payments**
 
-- 🔭 I’m currently building backend systems and automations (Saas Booking system, Hypersender, Paylink).  
-- 🌱 Currently reading *Designing Data-Intensive Applications* and improving CI/CD skills.  
-- ⚡ Fun fact: I like building scalable and maintanable system with best practices.
+I lead a 5-engineer team at [GetPayin](https://getpayin.com), where I own the architecture and delivery of **Paylink** (payment aggregation) and a new **multi-tenant SaaS booking platform** on Laravel 12.
 
----
-
-## 🏢 Professional Work at Getpayin
-At [Getpayin](https://getpayin.com), a fintech company focused on payment solutions, I contribute to backend development and system design.  
-
-Key contributions:
-- Owned and delivered **secure payment APIs** and backend integrations using Laravel.  
-- Improved **system scalability and performance** by introducing **Redis caching and queues** and optimizing database queries.  
-- Led engineering improvements through **code reviews, standards, and refactoring**, raising overall code quality and maintainability.  
-- Built and maintained reliable background processing with **queue workers** to handle high-demand workloads and traffic spikes.  
-- Automated workflows using **CI/CD pipelines (GitHub Actions + Docker)** to improve deployment reliability and speed.  
-- Supported team execution by mentoring developers, reviewing PRs, and helping drive technical decisions and best practices.  
-
-Impact highlights:
-- Improved API stability and reduced response time by moving heavy operations to asynchronous processing and caching frequently accessed data.  
-- Increased operational reliability through standardized deployments and automated quality checks.  
-- Accelerated feature delivery by enforcing clearer architecture boundaries and maintainable patterns across services.  
+🌍 Based in Egypt — open to **remote and relocation worldwide**.
 
 ---
 
-## 🏢 Professional Work at HyperSender
-At [HyperSender](https://hypersender.com), a messaging platform providing **WhatsApp and SMS APIs**, I work on refactoring and scaling a high-demand backend system built around an Action-based architecture.
+## What I'm working on
 
-Key contributions:
-- Refactored core modules to improve maintainability and scalability while ensuring system stability under production traffic.  
-- Addressed traffic spikes by offloading heavy API operations to **background jobs** and implementing **Redis queues and caching**.  
-- Enhanced the **subscription and payment workflows** to improve reliability and simplify client onboarding.  
-- Implemented **invoice PDF generation** to improve billing transparency and client reporting.  
-- Added **OTP verification features** (code-based and link-based) to support secure client verification via APIs.  
+- **Paylink** — payment aggregation backend at GetPayin (Laravel 12, Horizon, multi-tenancy)
+- **SaaS Booking Platform** — new product line, multi-tenant Laravel 12 + Filament admin
+- **Hypersender** *(2025–2026)* — refactored a high-throughput WhatsApp/SMS API for resilience under traffic spikes; contributor to the [official Laravel SDK](https://github.com/hypersender/hypersender-laravel)
 
-Impact highlights:
-- Improved system resilience during peak usage by shifting synchronous workloads to asynchronous processing.  
-- Reduced friction for clients through smoother subscription, billing, and verification flows.  
+## Tech I work with daily
 
----
+**Backend:** PHP 8.4, Laravel 12, Filament 5, Livewire, Pest, Horizon, Pulse
+**Architecture:** Multi-tenancy, service-oriented & use-case-driven design, Clean Architecture, SOLID
+**Data:** MySQL, MongoDB, Redis (queues + cache)
+**DevOps:** Docker, GitHub Actions, AWS, DigitalOcean
+**Also fluent in:** Vue.js, .NET / C# (Clean Architecture)
 
-## 🚀 Tech Stack
-**Languages:** PHP, JavaScript  
-**Frameworks:** Laravel  
-**Databases:** MySQL, Redis, MongoDB  
-**DevOps:** Docker, GitHub Actions, CI/CD pipelines  
-**FrontEnd:** Vue.js  
+## Selected projects
 
----
+- 🚚 **[hypersender-transport](https://github.com/khaledtarek54/hypersender-transport)** — Filament fleet-management demo with availability engine + Pest tests
+- 📅 **[Content-Scheduler](https://github.com/khaledtarek54/Content-Scheduler)** — Laravel + Vue scheduling API with Redis queues
+- 🎓 **[CourseManagementAPI](https://github.com/khaledtarek54/CourseManagementAPI)** — .NET Core Clean Architecture API with JWT + Swagger
 
-## 🤝 Contributions
-- **HyperSender Laravel Package** — contributor to the official Laravel package that enables seamless integration with HyperSender APIs.  
-  https://github.com/hypersender/hypersender-laravel  
-  - Contributed improvements to support production usage, background processing, and smoother developer onboarding.
+## Open-source
 
----
+Contributor to **[hypersender/hypersender-laravel](https://github.com/hypersender/hypersender-laravel)** — production-grade Laravel SDK for the Hypersender messaging APIs.
 
-## 📊 GitHub Stats
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledtarek54&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledtarek54&layout=compact&theme=radical&hide_border=true)
+## 📊 GitHub stats
 
----
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledtarek54&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledtarek54&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-## 📫 Connect with Me
-- Company: [Getpayin](https://getpayin.com) — Future Group, El Sheikh Zayed, Giza, Egypt  
-- LinkedIn: [Khaled Tarek](https://www.linkedin.com/in/khaled-tarek-3596401b1)  
-- Email: khaledtarek543@gmail.com  
+## Reach me
 
-💡 Always open to collaborations, learning, and discussing system design & backend engineering.
+📫 khaledtarek543@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/khaled-tarek-3596401b1)
+🌐 [khaledtarek.dev](https://khaledtarek.dev) *(coming soon)*
+
+💡 Always open to collaborations on backend systems, multi-tenant SaaS, and clean architecture.
