@@ -41,6 +41,6 @@ Contributor to **[hypersender/hypersender-laravel](https://github.com/hypersende
 
 📫 khaledtarek543@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/khaled-tarek-eng)
-🌐 [khaledtarek.dev](https://khaledtarek.dev) *(coming soon)*
+🌐 [Portfolio](https://my-portfolio-ten-rho-67.vercel.app/)
 
 💡 Always open to collaborations on backend systems, multi-tenant SaaS, and clean architecture.
